@@ -1,4 +1,6 @@
-
+"""
+    DESCRIPCION INICIAL DEL PRYOYECTO
+"""
 # comentarios en PYTHON
 
 '''
